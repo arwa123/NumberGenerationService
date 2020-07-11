@@ -1,6 +1,5 @@
 package com.kristal.ai.domain.dto;
 
-
 import lombok.Data;
 
 @Data

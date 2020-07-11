@@ -10,7 +10,6 @@ import java.util.Random;
 import java.util.concurrent.BlockingDeque;
 import java.util.concurrent.LinkedBlockingDeque;
 
-
 @Component
 public class NumberScheduler {
 
