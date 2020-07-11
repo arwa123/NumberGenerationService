@@ -1,0 +1,22 @@
+
+logging:
+  level:
+    ROOT: INFO
+    com.zolo: INFO
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+  endpoint:
+    health:
+      show-details: always
+
+server:
+  servlet:
+    context-path: '/number-service/api'
+  port: 8084
+
+
+    
