@@ -2,7 +2,6 @@ package com.kristal.ai.service;
 
 import com.kristal.ai.domain.dto.Response;
 import org.springframework.stereotype.Service;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
